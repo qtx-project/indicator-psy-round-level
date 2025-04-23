@@ -14,17 +14,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
  
-      - name: Set up .NET
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.0.x'
+      # - name: Set up .NET
+      #   uses: actions/setup-dotnet@v3
+      #   with:
+      #     dotnet-version: '8.0.x'
 
-      - name: Build
-        run: dotnet build -o ./build
+      # dont work because: "error CS0246: The type or namespace name 'TradingPlatform' could not be found ("
+      # - name: Build
+      #   run: dotnet build -o ./build
 
-      - name: prepare
+      - name: Prepare Zip
         run: |
-          echo prepare
           cd build
           zip -r ../indicator.zip ./*
  
