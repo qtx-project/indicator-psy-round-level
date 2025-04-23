@@ -203,12 +203,12 @@ public class PsyLevel : Indicator
     /// Gets the URL linking to the official help page or user documentation for this indicator.
     /// - This link usually explains the purpose, configuration options, and usage examples.
     /// </summary>
-    public override string HelpLink => "https://github.com/qtx-project/psy-round-level";
+    public override string HelpLink => "https://github.com/qtx-project/indicator-psy-round-level";
 
     /// <summary>
     /// Gets the URL pointing to the public source code repository of this indicator.
     /// - This link allows developers to inspect, contribute to, or fork the underlying implementation.
     /// </summary>
-    public override string SourceCodeLink => "https://github.com/qtx-project/psy-round-level";
+    public override string SourceCodeLink => "https://github.com/qtx-project/indicator-psy-round-level";
     
 }

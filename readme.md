@@ -16,7 +16,7 @@ This indicator visualizes multiple levels with different levels of transparency
 
 ## Install
 
-### 0. Download the [Latest Release](https://github.com/qtx-project/psy-round-level/releases)
+### 0. Download the [Latest Release](https://github.com/qtx-project/indicator-psy-round-level/releases)
 
 Go to the GitHub releases page and download the `indicator.zip` file. 
   While you can download the entire release, only `indicator.zip` is 
