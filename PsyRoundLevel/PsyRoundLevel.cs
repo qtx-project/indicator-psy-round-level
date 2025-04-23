@@ -1,3 +1,9 @@
+// ----------------------------------------------------------------------------
+// Copyright (c) 2025 https://github.com/qtx-project
+// Licensed under the **[GPL-3.0 License](./license.txt)**.
+// See LICENSE file in the project root for full license information.
+// ----------------------------------------------------------------------------
+
 namespace PsyRoundLevel;
 
 using System;
