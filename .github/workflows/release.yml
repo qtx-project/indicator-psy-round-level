@@ -14,11 +14,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
  
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Build
+        run: dotnet build -o ./build
+
       - name: prepare
         run: |
           echo prepare
-      #    cd build
-      #    zip -r ../theme.zip ./*
+          cd build
+          zip -r ../indicator.zip ./*
  
       - name: Release
         uses: softprops/action-gh-release@v2
