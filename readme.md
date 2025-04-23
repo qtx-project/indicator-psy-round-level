@@ -13,7 +13,32 @@ These levels, such as 50, 100, 1000, and 10000, often act as natural support
 
 This indicator visualizes multiple levels with different levels of transparency 
   to indicate their significance.
- 
+
+## Install
+
+### 0. Download the [Latest Release](https://github.com/qtx-project/psy-round-level/releases)
+
+Go to the GitHub releases page and download the `indicator.zip` file. 
+  While you can download the entire release, only `indicator.zip` is 
+  necessary for indicator installation.
+
+![example indicator.zip release](.github/assets/image-release.png) 
+
+### 1. Extract the ZIP File
+
+Once the `indicator.zip` file is downloaded, open it and extract the 
+`PsyRoundLevel` folder.
+
+### 2. Move the indicator to the Appropriate Folder
+
+Move the extracted `PsyRoundLevel` folder into your Quantower 
+**indicators directory**. This is typically located at `Quantower/Settings/Indicators/..`
+
+### 3. Restart Quantower
+
+After moving the indicator, restart Quantower to apply the changes and
+add the indicator to your chart.
+
 ## License
 
 This indicator is distributed under the [GPL-3.0 License](./license.txt), 
