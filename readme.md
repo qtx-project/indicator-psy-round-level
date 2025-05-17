@@ -16,15 +16,6 @@ This indicator visualizes multiple levels with different levels of transparency
 
 ## Download And Install
 
-<a
-    class="button button--primary"
-    href="https://github.com/qtx-project/indicator-psy-round-level/releases/latest/download/indicator.zip"
-    download
-    target="_blank"
-    rel="noopener noreferrer">Download the Latest Release</a>
-
-<br>
-
 > [!CAUTION]
 > By using this indicator, you acknowledge and agree that **you do so at your own risk**.
 > The indicator is intended purely for educational and informational purposes.
@@ -42,6 +33,13 @@ This indicator visualizes multiple levels with different levels of transparency
 >
 > By continuing to use this tool, you acknowledge that you have read, understood, and agree to these terms.
 
+<a
+    class="button button--primary"
+    href="https://github.com/qtx-project/indicator-psy-round-level/releases/latest/download/indicator.zip"
+    download
+    target="_blank"
+    rel="noopener noreferrer">Download the Latest Release</a>
+    
 ### 1. Extract the ZIP File
 
 Once the `indicator.zip` file is downloaded, open it and extract the 
