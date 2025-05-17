@@ -1,6 +1,6 @@
 # Psychological Round Level Indicator
 
-![preview Psychological Round Level Indicator](./.github/assets/image.png)
+![preview Psychological Round Level Indicator](.github/assets/image.png)
 
 - License: **[GPL-3.0 License](./license.txt)**
 
