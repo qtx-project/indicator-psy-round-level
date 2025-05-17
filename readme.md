@@ -2,10 +2,7 @@
 
 ![preview Psychological Round Level Indicator](.github/assets/image.png)
 
-- License: **[GPL-3.0 License](./license.txt)**
-
-Welcome to the `Psychological Round Level Indicator` project! 
-  PsyRoundLevel is a custom indicator designed to highlight psychological 
+PsyRoundLevel is a custom indicator designed to highlight psychological 
   round price levels on a financial chart. 
 
 These levels, such as 50, 100, 1000, and 10000, often act as natural support 
