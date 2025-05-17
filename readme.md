@@ -23,6 +23,8 @@ This indicator visualizes multiple levels with different levels of transparency
     target="_blank"
     rel="noopener noreferrer">Download the Latest Release</a>
 
+<br>
+
 > [!CAUTION]
 > By using this indicator, you acknowledge and agree that **you do so at your own risk**.
 > The indicator is intended purely for educational and informational purposes.
